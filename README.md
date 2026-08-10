@@ -36,4 +36,4 @@ Complete **Adobe Audition Edge** production suite with professional audio record
 
 ## ⚠️ Disclaimer
 > [!CAUTION]
-> This repository is provided for educational and utility purposes only. Use at your own discretion.  
+> This repository is provided for educational and utility purposes only. Use at your own discretion.   
